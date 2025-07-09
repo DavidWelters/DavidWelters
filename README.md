@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavidWelters
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on Basic web developmen tprojects
+- 💞️ I’m looking to collaborate on Basic web development projects
 - 📫 How to reach me dawie.welters@gmail.com
 
 <!---
